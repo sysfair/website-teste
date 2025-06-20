@@ -1,1 +1,6 @@
-<svg width="150" height="40" xmlns="http://www.w3.org/2000/svg"><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="#888">CLIENTE 4</text></svg> 
+<svg width="180" height="50" viewBox="0 0 180 50" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#999">
+    <path d="M10 25 C 20 10, 40 10, 50 25 S 70 40, 80 25"/>
+    <text x="95" y="32" font-family="Georgia, serif" font-size="22">Evolve</text>
+  </g>
+</svg> 

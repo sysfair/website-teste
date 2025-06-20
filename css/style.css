@@ -239,6 +239,10 @@ SEÇÃO DE SERVIÇOS (CARDS)
 SEÇÃO DE CLIENTES
 ========================================
 */
+.client-gallery {
+    background-color: var(--color-surface-1);
+}
+
 .client-gallery h2, .client-gallery .section-subtitle {
     text-align: center;
 }
@@ -253,13 +257,14 @@ SEÇÃO DE CLIENTES
 }
 
 .logos-container img {
-    height: 40px;
-    filter: grayscale(100%) opacity(60%);
-    transition: filter var(--transition-speed) ease;
+    height: 50px;
+    filter: grayscale(100%) opacity(70%);
+    transition: filter var(--transition-speed) ease, transform var(--transition-speed) ease;
 }
 
 .logos-container img:hover {
     filter: grayscale(0%) opacity(100%);
+    transform: scale(1.1);
 }
 
 /* 

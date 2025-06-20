@@ -1,1 +1,6 @@
-<svg width="150" height="40" xmlns="http://www.w3.org/2000/svg"><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="#888">CLIENTE 2</text></svg> 
+<svg width="180" height="50" viewBox="0 0 180 50" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#999">
+    <path d="M10 10 L30 10 L20 30 Z" transform="rotate(45 20 20)"/>
+    <text x="45" y="32" font-family="Verdana, sans-serif" font-size="26" font-style="italic">Quantum</text>
+  </g>
+</svg> 
